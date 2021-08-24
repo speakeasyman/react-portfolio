@@ -50,11 +50,11 @@ export const Navigation = (props) => {
                 Resume
               </a>
             </li>
-            {/* <li>
+            <li>
               <a href='#team' className='page-scroll'>
-                Team
+                Repos
               </a>
-            </li> */}
+            </li>
             <li>
               <a href='#contact' className='page-scroll'>
                 Contact

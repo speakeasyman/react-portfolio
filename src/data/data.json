@@ -85,23 +85,33 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "The Tailorist",
+      "job": "https://github.com/AnneliseRowan/the-tailorist"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Follow The Reader",
+      "job": "https://github.com/AnneliseRowan/project-2"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Weather Dashboard",
+      "job": "https://github.com/speakeasyman/6-weather-dashboard"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Fitness Tracker",
+      "job": "https://github.com/speakeasyman/18-fitness_tracker"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Note Taker",
+      "job": "https://github.com/speakeasyman/11-note-taker"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Day Planner",
+      "job": "https://github.com/speakeasyman/5-day_planner"
     }
   ],
   "Contact": {
